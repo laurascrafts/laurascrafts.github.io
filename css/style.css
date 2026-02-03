@@ -93,15 +93,15 @@ h1 {
 }
 
 .about-photo {
-  width: 140px;
-  height: 140px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
 }
 
 .about-text p {
-  font-size: 0.95rem;
-  line-height: 1.8;
+  font-size: 1.05rem;
+  line-height: 1.9;
   margin-bottom: 1.5rem;
 }
