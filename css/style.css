@@ -85,8 +85,8 @@ h1 {
 }
 .about-container {
   max-width: 900px;
-  margin: 6rem auto;
-  padding: 0 2rem;
+  margin: 0 auto;
+  padding: 120px 2rem 0;
   display: flex;
   align-items: flex-start;
   gap: 3rem;
